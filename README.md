@@ -15,21 +15,8 @@ Getting a single-occupancy room in a dormitory is very tough because of the high
 
 Write a program to create winning combination of lottery card. Use two classes  LotteryCard and RoomWinner. RoomWinner will be the driver class.
 
- 
+Reversing an Array:
 
-Your output will be similar to the following:
+Write a program that prompts the user for an integer, then asks the user to enter that many values. Store these values in an array and print the array. Then reverse the array elements so that the first element becomes the last element, the second element becomes the second to last element, and so on, with the old last element now first. Do not just reverse the order in which they are printed; actually, change the way they are stored in the array. Do not create a second array; just rearrange the elements within the array you have. (Hint: Swap elements that need to change places.) When the elements have been reversed, print the array again. 
 
-Winning Card Combination:
-
-1-red; 2- green; 3-black
-
- 
-
-                   Color                 Number
-
-Card1:         2                         14
-
-Card2:         2                         10
-
-Card3:         1                         12
-
+After printing the array in reverse order. Create another array that holds the array sort in ascending order.
