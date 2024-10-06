@@ -1,3 +1,5 @@
+Project Descriptions:
+
 Loan Calculator Code Description:
 
 LoanSimulator should contain one main method that drive the entire simulation. There should be very little branching code in main. It should just call methods
